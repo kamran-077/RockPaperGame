@@ -52,20 +52,13 @@ A classic **Rock Paper Scissors** game built with **Python** and **Streamlit**. 
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-```
-
-### 2. Install Streamlit
+### 1. Install Streamlit
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the game
+### 2. Run the game
 
 ```bash
 streamlit run streamlituii1.py
@@ -90,8 +83,8 @@ The game opens in your browser at `http://localhost:8501`.
 
 ## 👨‍💻 Author
 
-Made by **<Your Name>**
-GitHub: [@<your-username>](https://github.com/<your-username>)
+Made by **<Kamran Shahid>**
+GitHub: [@kamran-077)
 
 ---
 
